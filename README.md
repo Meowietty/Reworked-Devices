@@ -1,6 +1,14 @@
 # Reworked Devices 1.3
 ## Based on [PDA REPLACER - BTTR](https://www.moddb.com/mods/stalker-anomaly/addons/pda-replacer-bttr) and [PDA Reanimation](https://www.moddb.com/mods/stalker-anomaly/addons/pda-reanimation) addons
 
+## DOWNLOAD:
+<img width="1237" height="357" alt="image" src="https://github.com/user-attachments/assets/d8b850b6-66b9-4318-b621-374d492141b1" />
+
+---
+
+## INSTALLATION:
+Just install the archive using MO2. I also recommend installing the optional version of textures with BC7 compression to get rid of artifacts caused by BC3 compression for textures in the main pack. **CAN ONLY BE USED WITH DX11. This optional archive must be installed over the main file and overwrites textures.**
+
 ---
 
 ## PATCHNOTES 1.3:
@@ -9,11 +17,6 @@
 - All 4 PDA variants have their own visual features.
 - Compressed textures. BC3 or BC7 as optional.
 - New Reposition and UI icons.
-
----
-
-## INSTALLATION:
-Just install the archive using MO2. I also recommend installing the optional version of textures with BC7 compression to get rid of artifacts caused by BC3 compression for textures in the main pack. **CAN ONLY BE USED WITH DX11. This optional archive must be installed over the main file and overwrites textures.**
 
 ---
 
