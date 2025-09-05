@@ -24,7 +24,7 @@ Just install the archive using MO2.
 - 4K Textures with different materials.
 - All 4 PDA variants have their own visual features.
 - Compressed textures. BC3 or BC7 as optional.
-- New Reposition and UI icons. By Jazzman
+- New Reposition and UI icons.
 
 ---
 
